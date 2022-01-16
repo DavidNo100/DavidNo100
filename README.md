@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is David No and I am currently a Master's student at the Applied Data Science at Syracuse University.
+
+I am also a microbiologist at the Washington State Department of Health Public Laboratories.
+
+I am currently enrolled in the Machine Learning course and would like to apply what I've learned to my workplace.
+
 <!--
 **DavidNo100/DavidNo100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
